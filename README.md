@@ -16,6 +16,7 @@ dependencies {
 }
 ```
 appcompat-v7 version >= 23.0.0
+
 PhotoPicker框架的github项目仅支持AS，对于eclipse的态度就一张图片：
 
 ![过时了](/screen/1.jpg)
